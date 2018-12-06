@@ -1,0 +1,32 @@
+c:\users\xj\documents\visual studio 2013\Projects\HrSystem\HrSystem\bin\Debug\HrSystem.exe.config
+c:\users\xj\documents\visual studio 2013\Projects\HrSystem\HrSystem\bin\Debug\HrSystem.exe
+c:\users\xj\documents\visual studio 2013\Projects\HrSystem\HrSystem\bin\Debug\HrSystem.pdb
+c:\users\xj\documents\visual studio 2013\Projects\HrSystem\HrSystem\obj\Debug\HrSystem.Login.resources
+c:\users\xj\documents\visual studio 2013\Projects\HrSystem\HrSystem\obj\Debug\HrSystem.Properties.Resources.resources
+c:\users\xj\documents\visual studio 2013\Projects\HrSystem\HrSystem\obj\Debug\HrSystem.csproj.GenerateResource.Cache
+c:\users\xj\documents\visual studio 2013\Projects\HrSystem\HrSystem\obj\Debug\HrSystem.exe
+c:\users\xj\documents\visual studio 2013\Projects\HrSystem\HrSystem\obj\Debug\HrSystem.pdb
+C:\Users\XJ\documents\visual studio 2013\Projects\HrSystem\HrSystem\obj\Debug\HrSystem.frmMain.resources
+C:\Users\XJ\documents\visual studio 2013\Projects\HrSystem\HrSystem\obj\Debug\HrSystem.Employee.resources
+C:\Users\XJ\documents\visual studio 2013\Projects\HrSystem\HrSystem\obj\Debug\HrSystem.csproj.ResolveComReference.cache
+C:\Users\XJ\documents\visual studio 2013\Projects\HrSystem\HrSystem\obj\Debug\HrSystem.Note.resources
+C:\Users\XJ\documents\visual studio 2013\Projects\HrSystem\HrSystem\obj\Debug\HrSystem.Admin.resources
+D:\编程学习\Projects\HrSystem\HrSystem\bin\Debug\HrSystem.exe.config
+D:\编程学习\Projects\HrSystem\HrSystem\obj\Debug\HrSystem.csproj.ResolveComReference.cache
+D:\编程学习\Projects\HrSystem\HrSystem\obj\Debug\HrSystem.exe
+D:\编程学习\Projects\HrSystem\HrSystem\obj\Debug\HrSystem.pdb
+F:\编程学习\Projects\HrSystem\HrSystem\bin\Debug\HrSystem.exe.config
+F:\编程学习\Projects\HrSystem\HrSystem\obj\Debug\HrSystem.csproj.ResolveComReference.cache
+F:\编程学习\Projects\HrSystem\HrSystem\obj\Debug\HrSystem.exe
+F:\编程学习\Projects\HrSystem\HrSystem\obj\Debug\HrSystem.pdb
+F:\编程学习\Projects\HrSystem\HrSystem\bin\Debug\HrSystem.exe
+F:\编程学习\Projects\HrSystem\HrSystem\bin\Debug\HrSystem.pdb
+F:\编程学习\Projects\HrSystem\HrSystem\obj\Debug\HrSystem.csprojResolveAssemblyReference.cache
+F:\编程学习\Projects\HrSystem\HrSystem\obj\Debug\HrSystem.Admin.resources
+F:\编程学习\Projects\HrSystem\HrSystem\obj\Debug\HrSystem.Employee.resources
+F:\编程学习\Projects\HrSystem\HrSystem\obj\Debug\HrSystem.frmMain.resources
+F:\编程学习\Projects\HrSystem\HrSystem\obj\Debug\HrSystem.Login.resources
+F:\编程学习\Projects\HrSystem\HrSystem\obj\Debug\HrSystem.Note.resources
+F:\编程学习\Projects\HrSystem\HrSystem\obj\Debug\HrSystem.Properties.Resources.resources
+F:\编程学习\Projects\HrSystem\HrSystem\obj\Debug\HrSystem.csproj.GenerateResource.Cache
+C:\Users\xj\Documents\Visual Studio 2013\Projects\HrSystem\HrSystem\obj\Debug\HrSystem.csprojResolveAssemblyReference.cache
